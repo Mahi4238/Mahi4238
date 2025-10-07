@@ -2,8 +2,7 @@
 
 🎯 **Data Enthusiast | Python | SQL | Power BI | Machine Learning**
 
-I'm passionate about turning data into actionable insights and building interactive dashboards that tell stories.  
-Currently working as a Data Analyst at **Shorat Innovation Pvt Ltd**, mentoring learners in data analytics.
+I'm passionate about turning data into actionable insights and building interactive dashboards that tell stories.
 
 ---
 
