@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahesh Somase  
 
-<!--
-**Mahi4238/Mahi4238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Enthusiast | Python | SQL | Power BI | Machine Learning**
 
-Here are some ideas to get you started:
+I'm passionate about turning data into actionable insights and building interactive dashboards that tell stories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔧 Tech Stack
+ **Languages:** Python, SQL  
+ **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+ **Visualization Tools:** Power BI, Tableau, Excel  
+ **Database:** MySQL  
+ **Other Tools:** GitHub, VS Code, Jupyter Notebook  
+
+📊 Projects
+ Project | Description | Tech Stack | Link |
+ **Ola Ride Data Analysis** | Analyzed 10k+ rides to find pricing & demand trends | Excel, Power BI | [GitHub Repo](https://github.com/Mahi4238/OLA-Analysis) |
+ **Restaurant Data Analysis** | EDA on restaurant sales trends & customer preferences | Python, Pandas, Seaborn | [GitHub Repo](https://github.com/Mahi4238/EDA-project) |
+ **Loan Prediction Model** | ML model predicting loan eligibility (85% accuracy) | Python, Sklearn | [GitHub Repo](https://github.com/Mahi4238/bankproject) |
+ **State Fund Tracking System** | Web tool for transparent fund allocation tracking | HTML, CSS, MySQL | [GitHub Repo](https://github.com/Mahi4238/blockchainproject) |
+
+🏆 Certifications
+- Data Analytics – Advanto Software (2024)  
+- Python Programming – Udemy (2024)
+  
+📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/mahesh-somase-b66808231)  
+- [Email](mailto:somasemahesh1234@gmail.com)
