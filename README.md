@@ -26,7 +26,7 @@ I'm passionate about turning data into actionable insights and building interact
 ---
 
 ### 🏆 Certifications
-- Data Analytics – Advanto Software (2024)  
+- Data Science Course Completion Certificate – Advanto Software (2024)  
 - Python Programming – Udemy (2024)
 
 ---
